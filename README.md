@@ -34,7 +34,7 @@ repository [bootwitch-agents](https://github.com/naomijnguyen/bootwitch-agents).
 ## Start A Session
 
 ```bash
-skills/bootwitch-agents/scripts/start_session.sh \
+plugins/5-agents-1-repo/skills/bootwitch-agents/scripts/start_session.sh \
   storage-repair \
   architect storage boundary runtime verification
 ```
@@ -46,8 +46,8 @@ The generated directory contains shared architecture, documentation, and status 
 Prepare an entry using `templates/shared-note-entry.md`, then append it through the lock-protected helper:
 
 ```bash
-skills/bootwitch-agents/scripts/append_shared_note.sh \
-  skills/bootwitch-agents/sessions/2026-09-16-storage-repair/handoffs/shared_notes.md \
+plugins/5-agents-1-repo/skills/bootwitch-agents/scripts/append_shared_note.sh \
+  plugins/5-agents-1-repo/skills/bootwitch-agents/sessions/2026-09-16-storage-repair/handoffs/shared_notes.md \
   /tmp/agent-note.md
 ```
 
@@ -57,9 +57,11 @@ Existing entries are never rewritten. Corrections are new entries that reference
 
 ```text
 .
-├── .claude-plugin/plugin.json
+├── .claude-plugin/marketplace.json
 ├── config/{claude,openai}.yaml
-└── skills/bootwitch-agents/
+└── plugins/5-agents-1-repo/
+    ├── .claude-plugin/plugin.json
+    └── skills/bootwitch-agents/
     ├── SKILL.md
     ├── OVERVIEW.md
     ├── ARCHITECTURE.md
@@ -69,7 +71,7 @@ Existing entries are never rewritten. Corrections are new entries that reference
     └── templates/
 ```
 
-See [OVERVIEW.md](skills/bootwitch-agents/OVERVIEW.md) for the working method and [ARCHITECTURE.md](skills/bootwitch-agents/ARCHITECTURE.md) for the coordination flow and file-authority model.
+See [OVERVIEW.md](plugins/5-agents-1-repo/skills/bootwitch-agents/OVERVIEW.md) for the working method and [ARCHITECTURE.md](plugins/5-agents-1-repo/skills/bootwitch-agents/ARCHITECTURE.md) for the coordination flow and file-authority model.
 
 ## Design Principles
 

@@ -15,7 +15,7 @@ set -eu
 
 repo_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 source_dir=${SOURCE:-$(CDPATH= cd -- "$repo_dir/../../AGENTS" 2>/dev/null && pwd || true)}
-dest_dir="$repo_dir/skills/bootwitch-agents"
+dest_dir="$repo_dir/plugins/5-agents-1-repo/skills/bootwitch-agents"
 
 apply=0
 case "${1:-}" in

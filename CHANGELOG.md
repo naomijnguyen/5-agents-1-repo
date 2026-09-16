@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.1 - 2026-09-16
+
+- Moved the plugin into plugins/5-agents-1-repo/ so the marketplace source points at a
+  subdirectory. A bare "./" source is used by none of the working marketplace entries and
+  did not resolve; marketplace.json and plugin.json no longer share one directory.
+- Updated sync.sh, .gitignore, and README paths to follow the move.
+
 ## v0.3.0 - 2026-09-16
 
 - Added "Co-authored by Codex and Claude" to the README and to the generated architecture

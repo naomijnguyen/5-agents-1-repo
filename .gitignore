@@ -1,4 +1,4 @@
 .DS_Store
-skills/bootwitch-agents/sessions/*
-!skills/bootwitch-agents/sessions/README.md
+plugins/5-agents-1-repo/skills/bootwitch-agents/sessions/*
+!plugins/5-agents-1-repo/skills/bootwitch-agents/sessions/README.md
 *.lock

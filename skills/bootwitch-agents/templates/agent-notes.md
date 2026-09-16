@@ -36,3 +36,7 @@ Record compatibility issues, hidden dependencies, migration risks, and surprisin
 - Remaining unknowns:
 - Recommended trace update:
 
+
+---
+
+*Co-authored by Codex and Claude.*

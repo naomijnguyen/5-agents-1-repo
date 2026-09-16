@@ -38,3 +38,7 @@ Describe the bounded implementation or investigation.
 - Complete `HANDOFF.md` before declaring the assignment ready.
 - Do not stage, commit, merge, rebase, or push unless the integration lead authorizes it.
 
+
+---
+
+*Co-authored by Codex and Claude.*

@@ -49,3 +49,7 @@ Add high-level context here. Put mutable decisions and verified status in `STATU
 - Release or tag authorized: yes | no
 - Target branch:
 - Version or tag:
+
+---
+
+*Co-authored by Codex and Claude.*

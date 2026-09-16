@@ -2,6 +2,10 @@
 
 ## v0.3.0 - 2026-09-16
 
+- Added "Co-authored by Codex and Claude" to every generated session document.
+- Credited both Claude and Codex in the README.
+- Added sync.sh to propagate the skill payload from the canonical bootwitch-agents repo.
+
 - Renamed the invoked skill from `agents` to `bootwitch-agents` to avoid collisions with
   other installed skills. **Breaking:** reinstall to `~/.claude/skills/bootwitch-agents`
   (or `~/.codex/skills/bootwitch-agents`) and invoke with `/bootwitch-agents`.

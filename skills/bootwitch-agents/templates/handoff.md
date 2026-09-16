@@ -55,3 +55,7 @@
 - Forward arrow:
 - Backward arrow:
 - Node or connection color:
+
+---
+
+*Co-authored by Codex and Claude.*

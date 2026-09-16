@@ -49,3 +49,7 @@ Capture useful observations that are outside this session's acceptance gates. Ke
 
 | Project | Follow-up | Why it matters | Evidence or source | Suggested next session | Status |
 |---|---|---|---|---|---|
+
+---
+
+*Co-authored by Codex and Claude.*

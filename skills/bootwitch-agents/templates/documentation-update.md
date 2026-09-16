@@ -37,3 +37,7 @@ The session overview agent maintains this file. Update project documentation onl
 ## Reconciliation Notes
 
 Record documentation conflicts, stale claims removed, and terminology standardized during final review.
+
+---
+
+*Co-authored by Codex and Claude.*

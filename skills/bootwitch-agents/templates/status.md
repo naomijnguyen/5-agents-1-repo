@@ -35,3 +35,7 @@ This is the integration lead's mutable summary. It may be revised as evidence ch
 
 | Agent | Assignment | Acceptance gate |
 |---|---|---|
+
+---
+
+*Co-authored by Codex and Claude.*

@@ -2,7 +2,8 @@
 
 ## v0.3.0 - 2026-09-16
 
-- Added "Co-authored by Codex and Claude" to every generated session document.
+- Added "Co-authored by Codex and Claude" to the README and to the generated architecture
+  and technical documents.
 - Credited both Claude and Codex in the README.
 - Added sync.sh to propagate the skill payload from the canonical bootwitch-agents repo.
 

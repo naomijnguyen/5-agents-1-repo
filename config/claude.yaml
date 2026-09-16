@@ -1,0 +1,10 @@
+interface:
+  display_name: "5 Agents, 1 Repo"
+  short_description: "Coordinate parallel agents through shared evidence"
+  default_prompt: "Use the bootwitch-agents skill to start or continue a multi-agent coding session with bounded assignments, architecture traces, append-only shared notes, and verified handoffs."
+
+install:
+  method: plugin
+  marketplace: "naomijnguyen/5-agents-1-repo"
+  command: "/plugin install 5-agents-1-repo"
+  invoke: "/bootwitch-agents"

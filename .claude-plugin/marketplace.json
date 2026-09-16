@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "5-agents-1-repo",
+  "description": "Coordination tooling for running parallel coding agents in a single repository with bounded ownership and an evidence trail",
+  "owner": {
+    "name": "Jennifer Naomi Nguyen"
+  },
+  "plugins": [
+    {
+      "name": "5-agents-1-repo",
+      "description": "Coordinate parallel coding agents in one repository through bounded assignments, architecture traces, append-only shared notes, and evidence-backed handoffs reconciled by a single integration lead.",
+      "author": {
+        "name": "Jennifer Naomi Nguyen"
+      },
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/naomijnguyen/5-agents-1-repo"
+    }
+  ]
+}

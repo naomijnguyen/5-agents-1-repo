@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGENTS"
+  short_description: "Coordinate parallel agents through shared evidence"
+  default_prompt: "Use $bootwitch-agents to start or continue a multi-agent coding session with bounded assignments, architecture traces, append-only shared notes, and verified handoffs."

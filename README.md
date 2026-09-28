@@ -86,6 +86,6 @@ See [OVERVIEW.md](plugins/5-agents-1-repo/skills/bootwitch-agents/OVERVIEW.md) f
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+No new open-source or general reuse license is offered for the original work in this revision. Contact Jennifer Naomi Nguyen to discuss permission. Rights already granted under licenses for earlier versions are unaffected. Third-party components remain under their own licenses.
 
 Created by Jennifer Naomi Nguyen, built in collaboration with Claude Opus 5 (Anthropic) and Codex, running GPT-5.6 Sol (OpenAI). The coordination method it describes was developed by working with both.
